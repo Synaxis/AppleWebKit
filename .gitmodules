@@ -1,0 +1,18 @@
+[submodule "bmalloc"]
+	path = bmalloc
+	url = https://github.com/wzw19890321/bmalloc
+[submodule "WTF"]
+	path = WTF
+	url = https://github.com/wzw19890321/WTF
+[submodule "JavaScriptCore"]
+	path = JavaScriptCore
+	url = https://github.com/wzw19890321/JavaScriptCore
+[submodule "WebCore"]
+	path = WebCore
+	url = https://github.com/wzw19890321/WebCore
+[submodule "WebKit"]
+	path = WebKit
+	url = https://github.com/wzw19890321/WebKit
+[submodule "WebKit2"]
+	path = WebKit2
+	url = https://github.com/wzw19890321/WebKit2
